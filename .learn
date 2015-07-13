@@ -1,5 +1,7 @@
 tags:
   - nested hashes
-languages: 
+  - hashes
+  - code along
+languages:
   - ruby
 resources: 0
